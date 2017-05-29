@@ -1,0 +1,3 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Instalaci\IeC {\'o}n de servicios y configuraciones.}{3}
+\contentsline {subsection}{\numberline {1.1}Yum. Gestor de paquetes de CentOS.}{3}
